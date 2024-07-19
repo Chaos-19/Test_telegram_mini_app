@@ -5,7 +5,7 @@ import react from "@vitejs/plugin-react"
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: "/Test_telegram_mini_app",
+    base: "/Test_telegram_mini_app/",
     plugins: [
         // Allows using React dev server along with building a React application with Vite.
         // https://npmjs.com/package/@vitejs/plugin-react-swc

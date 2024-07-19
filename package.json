@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.1",
     "type": "module",
-    "homepage": "https://github.com/Chaos-19/Test_telegram_mini_app",
+    "homepage": "https://Chaos-19.github.io/Test_telegram_mini_app",
     "scripts": {
         "deploy": "gh-pages -d dist",
         "dev": "vite",
